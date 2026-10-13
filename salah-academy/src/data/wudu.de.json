@@ -1,0 +1,108 @@
+{
+  "review_note": "Vorläufiger Lerninhalt; vor der Veröffentlichung sind eine wissenschaftliche Überprüfung und Quellenangaben nötig.",
+  "basis": "Allah, der Erhabene, sagt (sinngemäße Übersetzung): „O ihr, die ihr glaubt, wenn ihr euch zum Gebet erhebt, so wascht euer Gesicht und eure Hände bis zu den Ellenbogen, streicht über euren Kopf und (wascht) eure Füße bis zu den Knöcheln.“ [Sure al-Ma'ida, 5:6]",
+  "steps": [
+    {
+      "title": "Die Absicht (Niyya) im Herzen",
+      "ar": "النية في القلب",
+      "latin": "An-niyyah",
+      "kind": "Sache des Herzens",
+      "detail": "Man nimmt sich vor, die rituelle Unreinheit zu beseitigen bzw. das Gebet zu ermöglichen; das Aussprechen mit der Zunge ist nicht erforderlich."
+    },
+    {
+      "title": "Basmala: Bismillah (Im Namen Allahs)",
+      "ar": "التسمية: بسم الله",
+      "latin": "Bismillah",
+      "kind": "Sunna (empfohlen)",
+      "detail": "Wird zu Beginn der Waschung gesprochen."
+    },
+    {
+      "title": "Beide Hände dreimal waschen",
+      "ar": "غسل الكفين ثلاثًا",
+      "latin": "Ghasl al-kaffayn",
+      "kind": "Sunna (empfohlen)",
+      "detail": "Bevor man sie in das Gefäß eintaucht."
+    },
+    {
+      "title": "Mund ausspülen und Wasser in die Nase ziehen",
+      "ar": "المضمضة والاستنشاق",
+      "latin": "Al-madmadah wal-istinshaq",
+      "kind": "Sunna nach Mehrheitsmeinung",
+      "detail": "Beides wird dreimal wiederholt; bei den Hanbaliten gibt es eine Meinungsverschiedenheit über den Rang."
+    },
+    {
+      "title": "Das Gesicht waschen",
+      "ar": "غسل الوجه",
+      "latin": "Ghasl al-wajh",
+      "kind": "Fard (Pflicht)",
+      "detail": "Vom üblichen Haaransatz bis unter das Kinn und von Ohr zu Ohr."
+    },
+    {
+      "title": "Beide Arme bis zu den Ellenbogen waschen",
+      "ar": "غسل اليدين إلى المرفقين",
+      "latin": "Ghasl al-yadayn ila al-marfiqayn",
+      "kind": "Fard (Pflicht)",
+      "detail": "Die Ellenbogen werden eingeschlossen; zuerst rechts, dann links."
+    },
+    {
+      "title": "Über den Kopf streichen",
+      "ar": "مسح الرأس",
+      "latin": "Mash ar-ra's",
+      "kind": "Fard (Pflicht)",
+      "detail": "Das vorgeschriebene Maß unterscheidet sich zwischen den Schulen; die Sunna ist, einmal über den ganzen Kopf zu streichen."
+    },
+    {
+      "title": "Über die Ohren streichen",
+      "ar": "مسح الأذنين",
+      "latin": "Mash al-udhunayn",
+      "kind": "Sunna (empfohlen)",
+      "detail": "Nach vielen Gelehrten mit dem Wasser des Kopfstreichens."
+    },
+    {
+      "title": "Beide Füße bis zu den Knöcheln waschen",
+      "ar": "غسل الرجلين إلى الكعبين",
+      "latin": "Ghasl ar-rijlayn ila al-ka'bayn",
+      "kind": "Fard (Pflicht)",
+      "detail": "Mit Durchfahren der Zehenzwischenräume; zuerst rechts, dann links."
+    },
+    {
+      "title": "Bittgebet nach der Waschung",
+      "ar": "الدعاء بعد الوضوء",
+      "latin": "Ash-hadu an la ilaha illa Allah wahdahu la sharika lah, wa ash-hadu anna Muhammadan 'abduhu wa rasuluh",
+      "kind": "Sunna (empfohlen)",
+      "detail": "Ich bezeuge, dass es keinen Gott gibt außer Allah, dem Einen ohne Partner, und ich bezeuge, dass Muhammad Sein Diener und Gesandter ist."
+    }
+  ],
+  "differences": [
+    {
+      "topic": "Absicht (Niyya) bei der Waschung",
+      "topic_ar": "النية في الوضوء",
+      "hanafi": "Sunna (empfohlen)",
+      "maliki": "Fard (Pflicht)",
+      "shafii": "Fard (Pflicht)",
+      "hanbali": "Bedingung (Schart)"
+    },
+    {
+      "topic": "Reihenfolge der Körperteile",
+      "topic_ar": "الترتيب بين الأعضاء",
+      "hanafi": "Sunna (empfohlen)",
+      "maliki": "Sunna (empfohlen)",
+      "shafii": "Fard (Pflicht)",
+      "hanbali": "Fard (Pflicht)"
+    },
+    {
+      "topic": "Unmittelbare Abfolge (Muwalat, keine lange Unterbrechung)",
+      "topic_ar": "الموالاة (عدم الفصل الطويل)",
+      "hanafi": "Sunna (empfohlen)",
+      "maliki": "Fard, bei Erinnerung und Fähigkeit",
+      "shafii": "Sunna (empfohlen)",
+      "hanbali": "Fard (Pflicht)"
+    }
+  ],
+  "nullifiers": [
+    "Austritt von etwas aus den beiden Ausscheidungsorganen",
+    "Verlust des Verstandes durch tiefen Schlaf, Ohnmacht oder Wahnsinn",
+    "Das Essen von Kamelfleisch nach den Hanbaliten; darüber gibt es Meinungsverschiedenheit zwischen den Schulen",
+    "Berühren der Genitalien und Berühren von Frauen: Darüber gibt es Meinungsverschiedenheit zwischen den Schulen"
+  ]
+}

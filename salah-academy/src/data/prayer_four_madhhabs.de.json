@@ -1,0 +1,429 @@
+{
+  "title": "Vergleich der Gebetssäulen und der Unterschiede zwischen den vier sunnitischen Rechtsschulen",
+  "language": "de",
+  "version": "1.0",
+  "purpose": "Strukturierter Rohinhalt für eine Lernwebsite. Vor der Veröffentlichung sind eine wissenschaftliche Überprüfung und eine detaillierte Quellenangabe nötig.",
+  "editorial_notes": [
+    "Der Inhalt ist eine Lernzusammenfassung, keine persönliche Fatwa und keine vollständige Darstellung aller Meinungsverschiedenheiten innerhalb der Schulen.",
+    "Die Begriffe unterscheiden sich zwischen den Schulen: Die Hanafiten unterscheiden terminologisch zwischen Fard und Wadschib, die Malikiten zwischen Fard, Sunna und Fadila, die Schafiiten zwischen Rukn und Sunna, die Hanbaliten zwischen Rukn, Wadschib und Sunna.",
+    "Strittige Fragen dürfen nicht als Konsens dargestellt werden. Vor der endgültigen Veröffentlichung muss jedes Urteil mit einer konkreten Rechtsquelle und einer verlässlichen Ausgabe oder einem Link belegt werden.",
+    "In manchen Fragen gibt es innerhalb einer Schule mehrere Überlieferungen und Meinungen; deshalb wurden manche Urteile, wo möglich, als „bekannteste“ bzw. „maßgebliche“ Meinung gekennzeichnet."
+  ],
+  "terminology": [
+    {
+      "term": "Die Bedingung (Schart)",
+      "definition": "Etwas, wovon die Gültigkeit des Gebets abhängt, ohne zwingend Teil seines Wesens zu sein, z. B. die rituelle Reinheit."
+    },
+    {
+      "term": "Rukn bzw. Fard (Säule / Pflicht)",
+      "definition": "Ein wesentlicher Bestandteil des Gebets, der bei Fähigkeit nicht ausgelassen werden darf und dessen Auslassung nicht allein durch die Niederwerfung des Versehens (Sudschud as-Sahw) ausgeglichen wird."
+    },
+    {
+      "term": "Das Wadschib",
+      "definition": "Ein Begriff mit besonderem Gebrauch bei Hanafiten und Hanbaliten; die Folgen seiner Auslassung unterscheiden sich je nach Schule und Frage."
+    },
+    {
+      "term": "Die Sunna",
+      "definition": "Das, was verlangt wird, dessen Auslassung das Gebet aber grundsätzlich nicht ungültig macht; die Einzelheiten unterscheiden sich zwischen den Schulen."
+    },
+    {
+      "term": "Die Fadila",
+      "definition": "Ein Begriff der Malikiten für eine Stufe empfohlener Handlungen."
+    }
+  ],
+  "conditions": [
+    {
+      "topic": "Reinheit von Hadath (rituelle Unreinheit) und Nadschasa (Unreinheit)",
+      "topic_ar": "الطهارة من الحدث والنجاسة",
+      "hanafi": "Bedingung (Schart)",
+      "maliki": "Bedingung (Schart)",
+      "shafii": "Bedingung (Schart)",
+      "hanbali": "Bedingung (Schart)",
+      "notes": "Es gibt Einzelheiten und Ausnahmen je nach Fähigkeit, Entschuldigungsgrund und Art der Unreinheit."
+    },
+    {
+      "topic": "Bedecken der Aura (Intimbereich)",
+      "topic_ar": "ستر العورة",
+      "hanafi": "Bedingung (Schart)",
+      "maliki": "Bedingung (Schart)",
+      "shafii": "Bedingung (Schart)",
+      "hanbali": "Bedingung (Schart)",
+      "notes": "Einige Einzelheiten unterscheiden sich in der Bestimmung der Aura und den Bedingungen der Bedeckung."
+    },
+    {
+      "topic": "Eintritt der Gebetszeit",
+      "topic_ar": "دخول الوقت",
+      "hanafi": "Bedingung (Schart)",
+      "maliki": "Bedingung (Schart)",
+      "shafii": "Bedingung (Schart)",
+      "hanbali": "Bedingung (Schart)"
+    },
+    {
+      "topic": "Ausrichtung zur Qibla",
+      "topic_ar": "استقبال القبلة",
+      "hanafi": "Bedingung (Schart), mit den anerkannten Entschuldigungen und Ausnahmen",
+      "maliki": "Bedingung (Schart), mit den anerkannten Entschuldigungen und Ausnahmen",
+      "shafii": "Bedingung (Schart), mit den anerkannten Entschuldigungen und Ausnahmen",
+      "hanbali": "Bedingung (Schart), mit den anerkannten Entschuldigungen und Ausnahmen"
+    },
+    {
+      "topic": "Die Absicht (Niyya)",
+      "topic_ar": "النية",
+      "hanafi": "Bedingung außerhalb des Wesens des Gebets (nach hanafitischer Terminologie)",
+      "maliki": "Fard unter den Pflichtbestandteilen des Gebets (nach der Terminologie der Schule)",
+      "shafii": "Rukn (Säule)",
+      "hanbali": "Gültigkeitsbedingung (Schart)",
+      "notes": "Die Absicht ist in allen vier Schulen erforderlich; der Unterschied liegt hier nur in der terminologischen Einordnung."
+    },
+    {
+      "topic": "Takbirat al-Ihram (einleitendes Allahu akbar)",
+      "topic_ar": "تكبيرة الإحرام",
+      "hanafi": "Bedingung (Schart) nach der bekanntesten Terminologie",
+      "maliki": "Fard (Pflicht)",
+      "shafii": "Rukn (Säule)",
+      "hanbali": "Rukn (Säule)"
+    }
+  ],
+  "prayer_components": [
+    {
+      "topic": "Das Stehen im Pflichtgebet für den Fähigen",
+      "topic_ar": "القيام في الفريضة للقادر",
+      "hanafi": "Verpflichtend für den, der es kann",
+      "maliki": "Verpflichtend für den, der es kann",
+      "shafii": "Rukn (Säule) für den, der es kann",
+      "hanbali": "Rukn (Säule) für den, der es kann",
+      "notes": "Wer nicht kann, betet nach seinem Vermögen; bei teilweiser Fähigkeit gibt es rechtliche Einzelheiten."
+    },
+    {
+      "topic": "Heben der Hände beim Takbir",
+      "topic_ar": "رفع اليدين عند التكبير",
+      "hanafi": "Man hebt sie beim einleitenden Takbir, üblicherweise nicht beim Verbeugen und beim Aufrichten daraus",
+      "maliki": "Bekannteste Meinung: Das Heben beim Verbeugen und Aufrichten ist nicht empfohlen",
+      "shafii": "Sunna an mehreren Stellen, darunter beim Verbeugen und Aufrichten daraus",
+      "hanbali": "Sunna an mehreren Stellen, darunter beim Verbeugen und Aufrichten daraus",
+      "notes": "Eine Frage der Haltung und Sunna, keine Bedingung für die Gültigkeit des Gebets."
+    },
+    {
+      "topic": "Rezitation der Fatiha für den Alleinbetenden",
+      "topic_ar": "قراءة الفاتحة للمنفرد",
+      "hanafi": "Die Rezitation an sich ist Fard; die Fatiha ist an ihren Stellen Wadschib, aber nach hanafitischer Terminologie nicht als solche Fard",
+      "maliki": "Die Fatiha ist Fard im Gebet, mit Einzelheiten für den Verspäteten und den Unfähigen",
+      "shafii": "Rukn (Säule) in jeder Gebetseinheit (Raka)",
+      "hanbali": "Rukn (Säule) in jeder Gebetseinheit (Raka)",
+      "notes": "Die Einzelheiten der Rezitation im leisen und im lauten Gebet müssen je nach Situation des Betenden geprüft werden."
+    },
+    {
+      "topic": "Rezitation des Folgenden hinter dem Imam",
+      "topic_ar": "قراءة المأموم خلف الإمام",
+      "hanafi": "Bekannteste Meinung: Er rezitiert nicht hinter dem Imam",
+      "maliki": "Bekannteste Meinung: Er rezitiert im leisen Gebet und hört im lauten Gebet zu",
+      "shafii": "Er rezitiert die Fatiha im leisen und im lauten Gebet",
+      "hanbali": "Hier gibt es Einzelheiten, besonders im lauten Gebet",
+      "notes": "Eine der großen Streitfragen; Belege und die Fälle des Erreichens der Raka müssen ergänzt werden."
+    },
+    {
+      "topic": "Ist die Basmala ein Vers der Fatiha?",
+      "topic_ar": "البسملة من الفاتحة",
+      "hanafi": "Bekannteste Meinung: kein Vers der Fatiha",
+      "maliki": "Bekannteste Meinung: kein Vers der Fatiha",
+      "shafii": "Ein Vers der Fatiha",
+      "hanbali": "Kein Vers der Fatiha (nach der richtigeren Meinung)",
+      "notes": "Daraus ergeben sich einige Regeln zum lauten oder leisen Sprechen."
+    },
+    {
+      "topic": "Lautes Sprechen der Basmala",
+      "topic_ar": "الجهر بالبسملة",
+      "hanafi": "Üblich ist, sie leise zu sprechen",
+      "maliki": "Bekannteste Meinung: Sie wird nicht laut gesprochen",
+      "shafii": "Im lauten Gebet ist lautes Sprechen empfohlen",
+      "hanbali": "Üblich ist, sie leise zu sprechen",
+      "notes": "Eine anerkannte rechtliche Meinungsverschiedenheit, allein kein Maßstab für Gültigkeit oder Ungültigkeit des Gebets."
+    },
+    {
+      "topic": "Die Verbeugung (Ruku)",
+      "topic_ar": "الركوع",
+      "hanafi": "Fard (Pflicht)",
+      "maliki": "Fard (Pflicht)",
+      "shafii": "Rukn (Säule)",
+      "hanbali": "Rukn (Säule)"
+    },
+    {
+      "topic": "Aufrichten nach der Verbeugung",
+      "topic_ar": "الاعتدال بعد الركوع",
+      "hanafi": "Hier gibt es Einzelheiten: Fard nach Abu Yusuf, nach der bekannteren Meinung bei Abu Hanifa nicht Fard",
+      "maliki": "Fard (Pflicht)",
+      "shafii": "Rukn (Säule)",
+      "hanbali": "Rukn (Säule)"
+    },
+    {
+      "topic": "Die Niederwerfung (Sudschud)",
+      "topic_ar": "السجود",
+      "hanafi": "Fard (Pflicht)",
+      "maliki": "Fard (Pflicht)",
+      "shafii": "Rukn (Säule)",
+      "hanbali": "Rukn (Säule)"
+    },
+    {
+      "topic": "Sitzen zwischen den beiden Niederwerfungen",
+      "topic_ar": "الجلوس بين السجدتين",
+      "hanafi": "Hier gibt es Einzelheiten zu Rang und Ruhe (Tuma'nina)",
+      "maliki": "Fard (Pflicht)",
+      "shafii": "Rukn (Säule)",
+      "hanbali": "Rukn (Säule)"
+    },
+    {
+      "topic": "Ruhe (Tuma'nina) in den Bewegungen",
+      "topic_ar": "الطمأنينة في الأفعال",
+      "hanafi": "Hier gibt es Einzelheiten: nach der bekannteren Meinung bei Abu Hanifa nicht Fard, bei Abu Yusuf verpflichtend",
+      "maliki": "Wadschib oder Fard, je nach maßgeblicher Einzelheit",
+      "shafii": "Rukn (Säule)",
+      "hanbali": "Rukn (Säule)",
+      "notes": "Der Hadith vom Mann, der schlecht betete, ist für die Mehrheit die wichtige Grundlage in dieser Frage."
+    },
+    {
+      "topic": "Niederwerfung auf den sieben Körperteilen",
+      "topic_ar": "السجود على الأعضاء السبعة",
+      "hanafi": "Es gibt Einzelheiten dazu, welche Körperteile aufgesetzt werden müssen",
+      "maliki": "Hier gibt es Einzelheiten",
+      "shafii": "Die Niederwerfung auf den sieben Körperteilen ist verpflichtend",
+      "hanbali": "Die Niederwerfung auf den sieben Körperteilen ist verpflichtend",
+      "notes": "Die sieben Körperteile: Stirn (nach Einzelheiten der Gelehrten zusammen mit der Nase), beide Handflächen, beide Knie und die Zehenspitzen beider Füße; die Einzelheiten der Schulen müssen vor der Veröffentlichung präzisiert werden."
+    },
+    {
+      "topic": "Letztes Tashahhud und das Sitzen dafür",
+      "topic_ar": "التشهد الأخير والجلوس له",
+      "hanafi": "Das letzte Sitzen ist Fard; die Worte des Tashahhud haben einen anderen Rang als das Sitzen",
+      "maliki": "Das letzte Sitzen ist verpflichtend; das Rezitieren des Tashahhud ist nach bekanntester Meinung Sunna",
+      "shafii": "Das Sitzen und das letzte Tashahhud gehören zu den Säulen (Arkan)",
+      "hanbali": "Das Sitzen und das letzte Tashahhud gehören zu den Säulen (Arkan)",
+      "notes": "Man muss zwischen dem Rang des Sitzens und dem Rang der Rezitation der Tashahhud-Worte unterscheiden."
+    },
+    {
+      "topic": "Erstes Tashahhud",
+      "topic_ar": "التشهد الأول",
+      "hanafi": "Bekannteste Meinung: Wadschib",
+      "maliki": "Sunna (empfohlen)",
+      "shafii": "Sunna Ab'ad (hervorgehobene Sunna; Auslassung wird durch Sudschud as-Sahw ausgeglichen)",
+      "hanbali": "Wadschib (verpflichtend)"
+    },
+    {
+      "topic": "Ibrahimitischer Segensspruch (as-Salat al-Ibrahimiyya) im letzten Tashahhud",
+      "topic_ar": "الصلاة الإبراهيمية في التشهد الأخير",
+      "hanafi": "Bekannteste Meinung: Sunna",
+      "maliki": "Bekannteste Meinung: Sunna",
+      "shafii": "Rukn (Säule)",
+      "hanbali": "Rukn (Säule), maßgebliche Meinung"
+    },
+    {
+      "topic": "Segensspruch auf den Propheten nach dem ersten Tashahhud",
+      "topic_ar": "الصلاة على النبي بعد التشهد الأول",
+      "hanafi": "Gehört nicht zu den verpflichtenden Gebetsformeln",
+      "maliki": "Bekannteste Meinung: nicht empfohlen",
+      "shafii": "Sunna Ab'ad (hervorgehobene Sunna; Auslassung wird durch Sudschud as-Sahw ausgeglichen)",
+      "hanbali": "Gehört nicht zu den Pflichten des ersten Tashahhud"
+    },
+    {
+      "topic": "Der Friedensgruß (Taslim) am Ende des Gebets",
+      "topic_ar": "السلام",
+      "hanafi": "Wadschib nach hanafitischer Terminologie",
+      "maliki": "Fard (Pflicht)",
+      "shafii": "Rukn (Säule)",
+      "hanbali": "Rukn (Säule)"
+    },
+    {
+      "topic": "Anzahl der Friedensgrüße",
+      "topic_ar": "عدد التسليمات",
+      "hanafi": "Ein Gruß zum Beenden des Gebets, der zweite ist Sunna",
+      "maliki": "Bekannteste Meinung: ein einziger Gruß",
+      "shafii": "Der erste ist Rukn (Säule), der zweite Sunna",
+      "hanbali": "Beide Grüße sind Säulen (Arkan), maßgebliche Meinung"
+    }
+  ],
+  "adhkar_and_sunan": [
+    {
+      "topic": "Takbire beim Wechsel zwischen den Positionen (Allahu akbar)",
+      "topic_ar": "تكبيرات الانتقال",
+      "topic_latin": "Takbirat al-intiqal",
+      "hanafi": "Bekannteste Meinung: Wadschib",
+      "maliki": "Sunna (empfohlen)",
+      "shafii": "Sunna (empfohlen)",
+      "hanbali": "Wadschib (verpflichtend)"
+    },
+    {
+      "topic": "„Sami'a Allahu liman hamidah“ (Allah hört den, der Ihn lobt)",
+      "topic_ar": "سمع الله لمن حمده",
+      "topic_latin": "Sami'a Allahu liman hamidah",
+      "hanafi": "Bekannteste Meinung: Wadschib",
+      "maliki": "Sunna (empfohlen)",
+      "shafii": "Sunna (empfohlen)",
+      "hanbali": "Wadschib (verpflichtend)"
+    },
+    {
+      "topic": "„Rabbana wa lakal-hamd“ (Unser Herr, Dir gebührt das Lob)",
+      "topic_ar": "ربنا ولك الحمد",
+      "topic_latin": "Rabbana wa lakal-hamd",
+      "hanafi": "Bekannteste Meinung: Wadschib",
+      "maliki": "Sunna (empfohlen)",
+      "shafii": "Sunna (empfohlen)",
+      "hanbali": "Wadschib (verpflichtend)"
+    },
+    {
+      "topic": "„Subhana Rabbiyal-'Azim“ beim Verbeugen (Gepriesen sei mein Herr, der Gewaltige)",
+      "topic_ar": "سبحان ربي العظيم في الركوع",
+      "topic_latin": "Subhana Rabbiyal-'Azim fi ar-ruku'",
+      "hanafi": "Sunna (empfohlen)",
+      "maliki": "Sunna (empfohlen)",
+      "shafii": "Sunna (empfohlen)",
+      "hanbali": "Wadschib, mindestens einmal (maßgebliche Meinung)"
+    },
+    {
+      "topic": "„Subhana Rabbiyal-A'la“ beim Niederwerfen (Gepriesen sei mein Herr, der Höchste)",
+      "topic_ar": "سبحان ربي الأعلى في السجود",
+      "topic_latin": "Subhana Rabbiyal-A'la fi as-sujud",
+      "hanafi": "Sunna (empfohlen)",
+      "maliki": "Sunna (empfohlen)",
+      "shafii": "Sunna (empfohlen)",
+      "hanbali": "Wadschib, mindestens einmal (maßgebliche Meinung)"
+    },
+    {
+      "topic": "Eröffnungsbittgebet (Du'a al-Istiftah)",
+      "topic_ar": "دعاء الاستفتاح",
+      "topic_latin": "Du'a al-istiftah",
+      "hanafi": "Sunna (empfohlen)",
+      "maliki": "Bekannteste Meinung: nicht empfohlen",
+      "shafii": "Sunna (empfohlen)",
+      "hanbali": "Sunna (empfohlen)"
+    },
+    {
+      "topic": "Zuflucht suchen (Ta'awwudh) vor der Rezitation",
+      "topic_ar": "التعوذ قبل القراءة",
+      "topic_latin": "At-ta'awwudh qabl al-qira'ah",
+      "hanafi": "Sunna (empfohlen)",
+      "maliki": "Bekannteste Meinung: im Pflichtgebet nicht empfohlen",
+      "shafii": "Sunna (empfohlen)",
+      "hanbali": "Sunna (empfohlen)"
+    },
+    {
+      "topic": "„Amin“ sagen nach der Fatiha",
+      "topic_ar": "التأمين بعد الفاتحة",
+      "topic_latin": "At-ta'min ba'da al-Fatihah",
+      "hanafi": "Sunna (empfohlen)",
+      "maliki": "Hier gibt es Einzelheiten zum lauten und leisen Sprechen",
+      "shafii": "Sunna (empfohlen)",
+      "hanbali": "Sunna (empfohlen)"
+    }
+  ],
+  "qunut": [
+    {
+      "madhhab": "Hanafitisch",
+      "summary": "Das Qunut im Witr-Gebet ist nach bekanntester Meinung Wadschib und findet in der dritten Raka statt."
+    },
+    {
+      "madhhab": "Malikitisch",
+      "summary": "Das Qunut im Morgengebet (Fadschr) ist nach bekanntester Meinung empfohlen und wird nach der bekannten malikitischen Praxis vor der Verbeugung gesprochen."
+    },
+    {
+      "madhhab": "Schafiitisch",
+      "summary": "Das Qunut in der zweiten Raka des Morgengebets ist Sunna Ab'ad und wird nach dem Aufrichten aus der Verbeugung gesprochen; im Witr-Gebet ist es in der zweiten Hälfte des Ramadan vorgesehen."
+    },
+    {
+      "madhhab": "Hanbalitisch",
+      "summary": "Das Qunut im Witr-Gebet ist vorgesehen; ein dauerhaftes Qunut im Morgengebet ist nicht die maßgebliche, bekannte Meinung; bei Unglücksfällen (Nawazil) ist das Qunut vorgesehen."
+    }
+  ],
+  "sujud_sahw": {
+    "general_note": "Die Einzelregeln hängen davon ab, was ausgelassen oder hinzugefügt wurde, ob es absichtlich oder aus Versehen geschah, und von der Schule.",
+    "madhhabs": [
+      {
+        "madhhab": "Hanafitisch",
+        "summary": "Die Niederwerfung des Versehens erfolgt im Allgemeinen nach dem Friedensgruß."
+      },
+      {
+        "madhhab": "Malikitisch",
+        "summary": "Bekannteste Meinung: vor dem Friedensgruß bei einer Auslassung, nach dem Friedensgruß bei einer Hinzufügung."
+      },
+      {
+        "madhhab": "Schafiitisch",
+        "summary": "Maßgebliche Meinung: vor dem Friedensgruß."
+      },
+      {
+        "madhhab": "Hanbalitisch",
+        "summary": "Vor oder nach dem Friedensgruß möglich, je nach Anlass des Versehens, mit Einzelheiten zum Vorzug."
+      }
+    ],
+    "examples": [
+      "Das erste Tashahhud vergessen",
+      "Zweifel an der Anzahl der Gebetseinheiten",
+      "Zusätzliche Handlungen im Gebet",
+      "Eine Pflicht (Wadschib) des Gebets ausgelassen",
+      "Zu früh den Friedensgruß gesprochen und sich dann an das Fehlende erinnert"
+    ],
+    "important_rule": "Das Auslassen einer Säule (Rukn), etwa der Verbeugung oder Niederwerfung, wird nicht allein durch die Niederwerfung des Versehens ausgeglichen; die Säule muss nach den Regeln der Schule nachgeholt werden."
+  },
+  "sources_for_further_expansion": [
+    {
+      "title": "Belege der Rechtsgelehrten zu den Säulen und Pflichten des Gebets",
+      "url": "https://www.islamweb.com/ar/fatwa/134277/",
+      "type": "Fatwa / rechtliche Darstellung",
+      "status": "Link muss vor der Veröffentlichung auf Erreichbarkeit und Übereinstimmung des Inhalts geprüft werden"
+    },
+    {
+      "title": "Die Meinungen der Rechtsschulen zu den Säulen des Gebets",
+      "url": "https://gcp.islamweb.net/ar/fatwa/257347/",
+      "type": "Fatwa / rechtlicher Vergleich",
+      "status": "Link muss vor der Veröffentlichung auf Erreichbarkeit und Übereinstimmung des Inhalts geprüft werden"
+    },
+    {
+      "title": "Was sind die Säulen, Pflichten und Sunan des Gebets?",
+      "url": "https://islamqa.info/ar/answers/65847",
+      "type": "Rechtliche Erläuterung",
+      "status": "Stellt eine bestimmte rechtliche Methodik dar; gilt nicht als Konsens der vier Schulen"
+    },
+    {
+      "title": "Unterschiede zwischen den Schulen bei der Rezitation von Fatiha und Basmala",
+      "url": "https://islamqa.info/ar/answers/299653",
+      "type": "Rechtliche Erläuterung",
+      "status": "Die Einzelheiten müssen vor der Veröffentlichung mit den Originalquellen der Schulen abgeglichen werden"
+    },
+    {
+      "title": "Stelle der Niederwerfung des Versehens bei den vier Schulen",
+      "url": "https://islamqa.info/ar/answers/633915",
+      "type": "Rechtliche Erläuterung",
+      "status": "Muss überprüft und überarbeitet werden, bevor es als endgültige Referenz gilt"
+    }
+  ],
+  "recommended_primary_references": [
+    {
+      "madhhab": "Hanafitisch",
+      "works": [
+        "Badai' as-Sanai' von al-Kasani",
+        "Al-Hidaya von al-Marghinani",
+        "Radd al-Muhtar von Ibn Abidin"
+      ]
+    },
+    {
+      "madhhab": "Malikitisch",
+      "works": [
+        "Al-Mudawwana",
+        "Asch-Scharh al-Kabir von ad-Dardir mit dem Randkommentar (Haschiya) von ad-Dusuqi",
+        "Mawahib al-Dschalil von al-Hattab"
+      ]
+    },
+    {
+      "madhhab": "Schafiitisch",
+      "works": [
+        "Al-Madschmu' von an-Nawawi",
+        "Mughni al-Muhtadsch von al-Chatib asch-Schirbini",
+        "Tuhfat al-Muhtadsch von Ibn Hadschar al-Haitami"
+      ]
+    },
+    {
+      "madhhab": "Hanbalitisch",
+      "works": [
+        "Al-Mughni von Ibn Qudama",
+        "Kaschschaf al-Qina' von al-Buhuti",
+        "Scharh Muntaha al-Iradat von al-Buhuti"
+      ]
+    }
+  ]
+}
